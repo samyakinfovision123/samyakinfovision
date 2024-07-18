@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samyak Software - Simple Solutions</h1>
 <h3 align="center">The Best IT Solution With 10 Years of Experience</h3>
-<img align="right" alt="Coding" width:"400" src="https://www.shutterstock.com/shutterstock/photos/2249889569/display_1500/stock-photo-businessmen-making-handshake-with-partner-greeting-dealing-merger-and-acquisition-business-2249889569.gif">
+<img align="right" alt="Coding" width:"400" src="https://www.shutterstock.com/image-photo/business-people-shaking-hands-finishing-260nw-420967090.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
